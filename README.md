@@ -45,9 +45,9 @@ user-defined function `f(x)`,and boundary condition `fs(x,k)`,and space slices.
 
 ## example
 
-$$\int_0^{10}1/(x^2+25)=0.2*atan(2)$$
+$$\int_0^{10}1/(x^2+25)=0.2atan(2)$$
 
-$$\int_{-1}^{1}\int_{-1}^{0}\int_{0}^{1} yzexp(x)dxdydz=0.25*(e^{-1}-e^{1})$$
+$$\int_{-1}^{1}\int_{-1}^{0}\int_{0}^{1} yzexp(x)dxdydz=0.25(e^{-1}-e^{1})$$
 
 $$\int_{0}^{1}\int_{0}^{x^2+1} xy dxdy=7/12$$
 
