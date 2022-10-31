@@ -18,7 +18,7 @@
 ## usage
 ``` toml
 [dependencies]
-gauss_leg.git="https://hub.njuu.cf/Euler-37/integrate_fortran"
+gauss_leg.git="https://github.com/Euler-37/integrate_fortran"
 ```
 ### 1d
 
