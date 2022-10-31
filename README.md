@@ -16,7 +16,10 @@
 ```
 
 ## usage
-
+``` toml
+[dependencies]
+gauss_leg.git="https://hub.njuu.cf/Euler-37/integrate_fortran"
+```
 ### 1d
 
 user-defined function `f(x)`, and $\int_a^b f(x) dx$, `res=gauss_leg(a,b,f)`.
