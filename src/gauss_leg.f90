@@ -1,5 +1,5 @@
 module gauss_leg_mod
-   use iso_fortran_env,only:rk=>real32
+   use iso_fortran_env,only:rk=>real64
    implicit none
    public:: gauss_leg,gauss_leg_nd
    private
